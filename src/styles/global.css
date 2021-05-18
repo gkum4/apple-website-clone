@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  font-family: -apple-system, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
